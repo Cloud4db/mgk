@@ -1,1 +1,3 @@
 Sap Implementatiom methodology
+Azure administration Workshop
+Jira Administrator
