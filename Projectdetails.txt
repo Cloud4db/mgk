@@ -5,3 +5,4 @@ project preparation
 blueprint
 realization
 go ang live
+agile methodology
