@@ -5,4 +5,6 @@ project preparation
 blueprint
 realization
 go ang live
-agile methodology
+jenkins Training
+cloud4db technologies
+logic to send email
