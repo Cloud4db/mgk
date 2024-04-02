@@ -1,3 +1,7 @@
 Sap Implementatiom methodology
 Azure administration Workshop
 Jira Administrator
+project preparation 
+blueprint
+realization
+go ang live
