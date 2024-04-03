@@ -10,3 +10,5 @@ cloud4db technologies
 logic to send email
 sap data sending welcome note
 we will sending whatsapp message
+send email when new enquire is received
+
