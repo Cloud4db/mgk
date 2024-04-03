@@ -8,3 +8,4 @@ go ang live
 jenkins Training
 cloud4db technologies
 logic to send email
+sap data sending welcome note
