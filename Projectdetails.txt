@@ -9,3 +9,4 @@ jenkins Training
 cloud4db technologies
 logic to send email
 sap data sending welcome note
+we will sending whatsapp message
